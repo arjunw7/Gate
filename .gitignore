@@ -1,0 +1,14 @@
+.build/
+*.o
+*.d
+Gate.app/
+Boop.app/
+Claude Gate.app/
+ClaudeGate.app/
+ClaudeGate 2.app/
+DerivedData/
+.DS_Store
+.worktrees/
+.superpowers/
+Sources/Boop/Resources/gcs-service-account.json
+docs/
